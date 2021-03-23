@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #24252a;
+}
+.contaier1{width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+}
+.heading1{width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.text1{ font-size: 30px;
+    color: #fff;
+    font-family:"Montserrat",sans-serif;
+    text-shadow: 0px 15px 12px #000;
+
+}
+.line2{float: left; 
+    width: 200px;
+    height: 8px;
+    background-color: #17ff8d;
+    display: block;
+    position:block;
+    left:10%;
+    border-radius: 5px;
+    box-shadow: 0px 15px 12px 0px #000;
+
+}
+
+.logo{ margin: 5px 5px 5px 5px;
+        padding: 15px 15px 15px 15px;
+}
